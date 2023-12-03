@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://ck0l1rexyqo1d"]
+
+[ext_resource type="Script" path="res://Day2CubeConundrum.gd" id="1_fpruo"]
+
+[node name="Day2CubeConundrum" type="Node"]
+script = ExtResource("1_fpruo")
