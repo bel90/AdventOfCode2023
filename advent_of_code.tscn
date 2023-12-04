@@ -1,8 +1,8 @@
 [gd_scene load_steps=2 format=3 uid="uid://btinpnwkf3b5v"]
 
-[ext_resource type="Script" path="res://Day3GearRatios.gd" id="1_yi5fx"]
+[ext_resource type="Script" path="res://Day4Scratchcards.gd" id="1_xeg01"]
 
 [node name="AdventOfCode" type="Node2D"]
 
-[node name="Day3GearRatios" type="Node" parent="."]
-script = ExtResource("1_yi5fx")
+[node name="Day4Scratchcards" type="Node" parent="."]
+script = ExtResource("1_xeg01")

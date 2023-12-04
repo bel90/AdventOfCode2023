@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://svp44e0cda0c"]
+
+[ext_resource type="Script" path="res://Day3GearRatios.gd" id="1_rxebf"]
+
+[node name="Day3GearRatios" type="Node"]
+script = ExtResource("1_rxebf")
