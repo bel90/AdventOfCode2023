@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dd5p76nol0idj"]
+
+[ext_resource type="Script" path="res://Day5SeedFertilizer.gd" id="1_newpk"]
+
+[node name="Day5SeedFertilizer" type="Node"]
+script = ExtResource("1_newpk")

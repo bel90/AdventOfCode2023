@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://duchp54a7ochd"]
+
+[ext_resource type="Script" path="res://Day6WaitForIt.gd" id="1_e624d"]
+
+[node name="Day6WaitForIt" type="Node"]
+script = ExtResource("1_e624d")
