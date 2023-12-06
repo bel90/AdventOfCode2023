@@ -54,8 +54,10 @@ func calculate_ways_to_beat_record(times: Array, distances: Array):
 			var distance = speed * remaining_time
 
 			if distance > record_distance:
-				ways_to_beat_record += 1
+				ways_to_beat_record = race_duration + 1 - 2 * holding_duration
+				break
 
 		total_ways *= ways_to_beat_record
 
+	
 	return total_ways
