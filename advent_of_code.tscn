@@ -1,8 +1,8 @@
 [gd_scene load_steps=2 format=3 uid="uid://btinpnwkf3b5v"]
 
-[ext_resource type="Script" path="res://Day7CamelCards.gd" id="2_gj7xp"]
+[ext_resource type="Script" path="res://Day8HauntedWasteland.gd" id="1_lt8jm"]
 
 [node name="AdventOfCode" type="Node2D"]
 
-[node name="Day7CamelCards" type="Node" parent="."]
-script = ExtResource("2_gj7xp")
+[node name="Day8HauntedWasteland" type="Node" parent="."]
+script = ExtResource("1_lt8jm")

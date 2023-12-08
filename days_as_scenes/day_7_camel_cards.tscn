@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bobsmy2gi5klu"]
+
+[ext_resource type="Script" path="res://Day7CamelCards.gd" id="1_78uo7"]
+
+[node name="Day7CamelCards" type="Node"]
+script = ExtResource("1_78uo7")
