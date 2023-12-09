@@ -1,8 +1,8 @@
 [gd_scene load_steps=2 format=3 uid="uid://btinpnwkf3b5v"]
 
-[ext_resource type="Script" path="res://Day8HauntedWasteland.gd" id="1_lt8jm"]
+[ext_resource type="Script" path="res://Day9MirageMaintenance.gd" id="1_3q2wc"]
 
 [node name="AdventOfCode" type="Node2D"]
 
-[node name="Day8HauntedWasteland" type="Node" parent="."]
-script = ExtResource("1_lt8jm")
+[node name="Day9MirageMaintenance" type="Node" parent="."]
+script = ExtResource("1_3q2wc")

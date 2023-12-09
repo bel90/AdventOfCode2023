@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cs7jda4vr3ak"]
+
+[ext_resource type="Script" path="res://Day8HauntedWasteland.gd" id="1_6wqi2"]
+
+[node name="Day8HauntedWasteland" type="Node"]
+script = ExtResource("1_6wqi2")
